@@ -6,7 +6,7 @@
 there are **2** ways to dowload the [Spam-Machine](https://github.com/AProXD/Spam-Machine "SPAM-MACHINE GITHUB PAGE")
 
 ### the "Easy" Way
-  you can dowload the **Spam-Machine** by going into the ["Chat" Discord Server](https://discord.gg/YCN3qK78Rv "discord server"), Then going to the **#chat** text channel, checking pinned messages and then dowloading the `.zip` file which includes The `.exe` and the resources needed for the program to work. (it also includes the .jar)
+  you can dowload the **Spam-Machine** by joining the ["Chat" Discord Server](https://discord.gg/YCN3qK78Rv "discord server"), Then going to the **#chat** text channel, checking pinned messages and then dowloading the `.zip` file which includes The `.exe` and the resources needed for the program to work. (it also includes the .jar)
   
   _(this method of dowloading will change in the future, I'll probably find a more efficient way of doing it)_        
 
