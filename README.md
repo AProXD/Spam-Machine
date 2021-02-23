@@ -44,7 +44,7 @@ once you've clicked on the button some music will start playing, you have 4-5 se
 
 ## In what websites can i spam?
 
-some websites might not work, Here is a small list of which sites work, and which doesnt.
+some websites might not work, Here is a small list of  sites that work, and sites that dont.
 
 | Websites/Apps | Works | Sometimes works | Doesnt Work |
 |  ---          |    ---|              ---|          ---|
