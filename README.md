@@ -1,4 +1,4 @@
-# Spam-Machine
+# Spam-Machine (0.1)
 
 **Spam-Machine** is a java program made by AProXD using the robot class and swing library that simulates keyboard input to spam.
 *** 
